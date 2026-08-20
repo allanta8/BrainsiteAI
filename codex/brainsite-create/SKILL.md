@@ -1,5 +1,5 @@
 ---
-name: create-brainsite
+name: brainsite-create
 description: Create an unclaimed BrainSite AI-agent preview for a person or business from their X (Twitter) profile handle, display name, and bio, via BrainSite's remote MCP server. Use when Allan asks to create a BrainSite for someone, generate a BrainSite listing from an X profile, or test the create_brainsite_from_x_profile tool.
 ---
 
