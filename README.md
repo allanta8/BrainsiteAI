@@ -10,7 +10,7 @@ All three skills call the same public capability: BrainSite's remote MCP server 
 |---|---|---|
 | Claude | [`claude/create-brainsite/SKILL.md`](claude/create-brainsite/SKILL.md) | Drop into `.claude/skills/create-brainsite/` in any Claude Code project, or add as a Claude.ai custom skill. |
 | Codex | [`codex/create-brainsite/SKILL.md`](codex/create-brainsite/SKILL.md) | Drop into `~/.codex/skills/create-brainsite/`. |
-| Grok Bot | [`grok/reply-with-a-brainsite.md`](grok/reply-with-a-brainsite.md) | Submission format for [botdirectory.ai](https://botdirectory.ai) — matches its `bots/*.md` convention (YAML frontmatter + a natural-language setup prompt). |
+| Grok Bot | [`grok/create-brainsite.md`](grok/create-brainsite.md) | Submission format for [botdirectory.ai](https://botdirectory.ai) — matches its `bots/*.md` convention (YAML frontmatter + a natural-language setup prompt). |
 
 ## Connecting
 
